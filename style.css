@@ -9,11 +9,11 @@ body {
   height: 500px;
   border: 1px solid black;
   position: relative;
-  overflow: hidden; /* Optional, to disable overflow if box moves out */
+  overflow: hidden;
 }
 .box {
   width: 50px;
   height: 50px;
   background-color: red;
-  position: absolute; /* Position the box absolutely within the container */
+  position: absolute;
 }
